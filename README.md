@@ -44,7 +44,7 @@ A comprehensive security monitoring dashboard for detecting and visualizing brut
 
 
 
-\[View Live Dashboard](https://YOUR\_USERNAME.github.io/brute-force-detection-dashboard)
+\[View Live Dashboard](https://vogonna.github.io/brute-force-detection-dashboard)
 
 
 
